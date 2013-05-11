@@ -1,0 +1,9 @@
+*.log
+*.gz
+*.tex
+*.aux
+*.bbl
+*.bib
+*.blg
+.DS_Store
+*~
